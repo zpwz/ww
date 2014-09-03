@@ -6,7 +6,7 @@ public class Scs2 {
 		// TODO Auto-generated method stub
      System.out.println(123);
      System.out.println(456);
-    System.out.println(789);
+   System.out.println("³åÍ»~~~");
 	}
 
 }
